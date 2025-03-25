@@ -1,0 +1,49 @@
+/* Estilos generales */
+body {
+    background-color: #F4F1E1;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Secciones */
+section {
+    background: rgb(102, 2, 2);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: white;
+}
+
+/* Formulario de contacto */
+form {
+    max-width: 420px;
+    margin: 20px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.2);
+    color: black;
+}
+
+input, textarea {
+    width: 90%;
+    padding: 8px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+button {
+    background-color: rgb(102, 2, 2);
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgb(85, 0, 0);
+}
