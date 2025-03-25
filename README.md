@@ -1,4 +1,5 @@
 
+
 Investigación sobre etiquetas HTML
 1. <details>
 Descripción: La etiqueta <details> crea un bloque de información que el usuario puede mostrar u ocultar.
